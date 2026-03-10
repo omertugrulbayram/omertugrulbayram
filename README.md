@@ -18,7 +18,7 @@
 <a href="https://twitter.com/0m3rb4yr4m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0m3rb4yr4m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omertugrulbayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omertugrulbayram" height="30" width="40" /></a>
 <a href="https://kaggle.com/merturulbayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="merturulbayram" height="30" width="40" /></a>
-<a href="https://instagram.com/omertugrulbayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omertugrulbayram" height="30" width="40" /></a>
+<a href="https://instagram.com/omerbayramm41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omertugrulbayram" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/41200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="41200" height="30" width="40" /></a>
 </p>
 
