@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0m3rb4yr4m" target="blank"><img src="https://img.shields.io/twitter/follow/0m3rb4yr4m?logo=twitter&style=for-the-badge" alt="0m3rb4yr4m" /></a> </p>
 
-- 🌱 I’m currently learning **Unity, AWS**
+- 🌱 I’m currently learning **CyberSec, Pentest, RedTeam**
 
 - 📝 I regularly write articles on [https://omertugrulbayram.com](https://omertugrulbayram.com)
 
