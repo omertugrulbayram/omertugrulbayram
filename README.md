@@ -1,32 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ömer Bayram</h1>
-<h3 align="center">Sakarya Uygulamalı Bilimler Üniversitesi Bilişim Güvenliği öğrencisiyim. Siber güvenlik, bulut teknolojileri ve yazılım geliştirme alanında projeler geliştirdim. AWS tabanlı güvenlik çözümleri ve CTF deneyimlerimle kendimi geliştirdim. Öğrenmeye açık, takım çalışmasına uyumlu ve siber güvenlik alanında profesyonel kariyer hedefliyorum.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omertugrulbayram&label=Profile%20views&color=0e75b6&style=flat" alt="omertugrulbayram" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/0m3rb4yr4m" target="blank"><img src="https://img.shields.io/twitter/follow/0m3rb4yr4m?logo=twitter&style=for-the-badge" alt="0m3rb4yr4m" /></a> </p>
-
-- 🌱 I’m currently learning **CyberSec, Pentest, RedTeam**
-
-- 📝 I regularly write articles on [https://omertugrulbayram.com](https://omertugrulbayram.com)
-
-- 📫 How to reach me **omertugrulbayram@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0m3rb4yr4m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0m3rb4yr4m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omertugrulbayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omertugrulbayram" height="30" width="40" /></a>
-<a href="https://kaggle.com/merturulbayram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="merturulbayram" height="30" width="40" /></a>
-<a href="https://instagram.com/omerbayramm41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omertugrulbayram" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/41200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="41200" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/hero.svg" alt="Ömer Bayram: Bilişim Güvenliği öğrencisi. Pentest, Red Team, bulut güvenliği." width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://omertugrulbayram.com"><img src="assets/l-blog.svg" alt="BLOG" height="34"></a>
+  <a href="https://twitter.com/0m3rb4yr4m"><img src="assets/l-x.svg" alt="X" height="34"></a>
+  <a href="https://linkedin.com/in/omertugrulbayram"><img src="assets/l-linkedin.svg" alt="LINKEDIN" height="34"></a>
+  <a href="https://kaggle.com/merturulbayram"><img src="assets/l-kaggle.svg" alt="KAGGLE" height="34"></a>
+  <a href="https://instagram.com/omerbayramm41"><img src="assets/l-instagram.svg" alt="INSTAGRAM" height="34"></a>
+  <a href="https://www.topcoder.com/members/41200"><img src="assets/l-topcoder.svg" alt="TOPCODER" height="34"></a>
+  <a href="mailto:omertugrulbayram@gmail.com"><img src="assets/l-eposta.svg" alt="E-POSTA" height="34"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omertugrulbayram&show_icons=true&locale=en&layout=compact" alt="omertugrulbayram" /></p>
+<pre>
+<b>guest@omerbayram:~$</b> neofetch
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omertugrulbayram&show_icons=true&locale=en" alt="omertugrulbayram" /></p>
+     /\_/\            <b>omer@github</b>
+    ( o.o )           -----------
+     &gt; ^ &lt;            ad      : Ömer Bayram
+    .-------.         okul    : SUBÜ, Bilişim Güvenliği
+   /  .---.  \        öğrenme : CyberSec, Pentest, Red Team
+   |  |   |  |        araçlar : Python, C#, Linux, AWS, Unity
+   |  |   |  |        blog    : <a href="https://omertugrulbayram.com">omertugrulbayram.com</a>
+ .-'--'---'--'-.      
+ |  .-------.  |      repo    : 46 açık
+ |  | 1 0 1 |  |      yıldız  : 9
+ |  '-------'  |      takipçi : 10
+ |      O      |      katkı   : 148 (son 1 yıl)
+ '-------------'      
+<b>guest@omerbayram:~$</b> diller --en-cok
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omertugrulbayram&" alt="omertugrulbayram" /></p>
+JavaScript   [############........] 58.9%
+HTML         [####................] 21.6%
+CSS          [###.................] 14.7%
+Python       [#...................]  4.0%
+C#           [#...................]  0.9%
+
+<b>guest@omerbayram:~$</b> ls ~/projeler
+
+<a href="https://github.com/omertugrulbayram/SCQL">SCQL</a>                  *2  hedef bilgisi, port ve sürüm tarama aracı
+<a href="https://github.com/omertugrulbayram/ctf-writeups">ctf-writeups</a>          *1  TryHackMe, Hack The Box çözüm notları
+<a href="https://github.com/omertugrulbayram/BugBountyTool">BugBountyTool</a>             temel bug bounty tarama aracı
+<a href="https://github.com/omertugrulbayram/muhur">muhur</a>                     TEKNOFEST 2026, sosyal ağ güven katmanı
+<a href="https://github.com/omertugrulbayram/nasa-space-app-project-astrovia">astrovia</a>                  NASA Space Apps 2025, asteroit tespiti
+<a href="https://github.com/omertugrulbayram/deprem-radar">deprem-radar</a>              Türkiye canlı deprem haritası
+<a href="https://github.com/omertugrulbayram/namaz-vakit">namaz-vakit</a>               arkadaş grubu için namaz takibi
+<a href="https://github.com/omertugrulbayram/42_discovery_piscine">42_discovery_piscine</a>  *4  42 Discovery Piscine çalışmaları
+masa                      yakında: Windows masaüstü araç takımı
+</pre>
+
+<p align="center">
+  <img src="assets/katki.svg" alt="Son bir yılda 148 katkı" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/son.svg" alt="" width="100%">
+</p>
