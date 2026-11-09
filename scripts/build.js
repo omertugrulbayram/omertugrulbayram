@@ -35,7 +35,7 @@ const F = {
   '>': '10000 01000 00100 00010 00100 01000 10000', '<': '00001 00010 00100 01000 00100 00010 00001',
   $: '00100 01111 10100 01110 00101 11110 00100', '#': '01010 01010 11111 01010 11111 01010 01010',
   '!': '00100 00100 00100 00100 00100 00000 00100', '?': '01110 10001 00001 00010 00100 00000 00100',
-  '[': '01110 01000 01000 01000 01000 01000 01110', ']': '01110 00010 00010 00010 00010 00010 01110',
+  '%': '11001 11010 00010 00100 01000 01011 10011', '[': '01110 01000 01000 01000 01000 01000 01110', ']': '01110 00010 00010 00010 00010 00010 01110',
   '+': '00000 00100 00100 11111 00100 00100 00000', '~': '00000 00000 01000 10101 00010 00000 00000', '@': '01110 10001 10111 10101 10111 10000 01111',
 };
 const MARK = { dots: [[1, -2], [3, -2]], dot: [[2, -2]], breve: [[1, -2], [2, -2], [3, -2]], ced: [[2, 7], [1, 8]] };
@@ -231,71 +231,26 @@ ${label(clean, (W - tw) / 2, 24, 3, G.dim)}<rect class="bl" x="${(W - tw) / 2 + 
 <g transform="translate(0 ${H - 8 - 8 * CS})"><g class="walk"><path d="${sprite(WALK, CS)}" fill="${G.mid}"/><g class="a"><path d="${sprite(LEGS[0], CS, 0, 6 * CS)}" fill="${G.mid}"/></g><g class="b"><path d="${sprite(LEGS[1], CS, 0, 6 * CS)}" fill="${G.mid}"/></g></g></g></g>${CRT_TOP(W, H)}</g>`));
 }
 
-// ---- Gerçek ASCII bölümler: <pre> içinde seçilebilir, bağlantılar tıklanır. ----
-const PROJECTS = [
-  ['SCQL', 'hedef bilgisi, port ve sürüm tarama aracı'],
-  ['ctf-writeups', 'TryHackMe, Hack The Box çözüm notları'],
-  ['BugBountyTool', 'temel bug bounty tarama aracı'],
-  ['muhur', 'TEKNOFEST 2026, sosyal ağ güven katmanı'],
-  ['nasa-space-app-project-astrovia', 'NASA Space Apps 2025, asteroit tespiti', 'astrovia'],
-  ['deprem-radar', 'Türkiye canlı deprem haritası'],
-  ['namaz-vakit', 'arkadaş grubu için namaz takibi'],
-  ['42_discovery_piscine', '42 Discovery Piscine çalışmaları'],
-];
-const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const link = (url, text) => `<a href="${url}">${esc(text)}</a>`;
-const LOCK = [
-  '     /\\_/\\            ',
-  '    ( o.o )           ',
-  '     > ^ <            ',
-  '    .-------.         ',
-  '   /  .---.  \\        ',
-  '   |  |   |  |        ',
-  '   |  |   |  |        ',
-  ' .-\'--\'---\'--\'-.      ',
-  ' |  .-------.  |      ',
-  ' |  | 1 0 1 |  |      ',
-  ' |  \'-------\'  |      ',
-  ' |      O      |      ',
-  ' \'-------------\'      ',
+// ---- Görev kartları: her biri ayrı bağlantı olduğu için ayrı dosya. ----
+const QUESTS = [
+  { id: 'scql', repo: 'SCQL', title: 'SCQL', desc: 'PORT VE SÜRÜM TARAMA ARACI', art: 'scql', color: '#33ff66', delay: 0 },
+  { id: 'ctf', repo: 'ctf-writeups', title: 'CTF WRITEUPS', desc: 'THM VE HTB ÇÖZÜM NOTLARI', art: 'ctf', color: '#ff2d55', delay: 0.7 },
+  { id: 'bug', repo: 'BugBountyTool', title: 'BUGBOUNTYTOOL', desc: 'BUG BOUNTY TARAMA ARACI', art: 'bug', color: '#ffc94a', delay: 1.4 },
+  { id: 'muhur', repo: 'muhur', title: 'MÜHÜR', desc: 'TEKNOFEST 2026 GÜVEN KATMANI', art: 'muhur', color: '#ff7a4f', delay: 2.1 },
+  { id: 'astrovia', repo: 'nasa-space-app-project-astrovia', title: 'ASTROVIA', desc: 'NASA SPACE APPS 2025', art: 'astro', color: '#7ad7ff', delay: 2.8 },
+  { id: 'deprem', repo: 'deprem-radar', title: 'DEPREM RADAR', desc: 'CANLI DEPREM HARİTASI', art: 'deprem', color: '#ff4f4f', delay: 3.5 },
+  { id: 'vakit', repo: 'namaz-vakit', title: 'VAKİT', desc: 'ARKADAŞLARLA NAMAZ TAKİBİ', art: 'vakit', color: '#ffe9a8', delay: 4.2 },
+  { id: 'piscine', repo: '42_discovery_piscine', title: '42 PISCINE', desc: '4 GÜNLÜK PYTHON KAMPI', art: 'piscine', color: '#5ab8f0', delay: 4.9 },
+  { id: 'masa', repo: null, title: 'MASA', desc: 'WINDOWS MASAÜSTÜ ARAÇ TAKIMI', cta: '> YAKINDA', art: 'masa', color: '#8b87ff', delay: 5.6 },
 ];
 
-function bars(langs) {
-  const total = langs.reduce((n, l) => n + l.size, 0);
-  return langs.slice(0, 5).map((l) => {
-    const pct = (l.size / total) * 100, on = Math.max(1, Math.round(pct / 5));
-    return `${l.name.padEnd(12).slice(0, 12)} [${'#'.repeat(on)}${'.'.repeat(20 - on)}] ${pct.toFixed(1).padStart(4)}%`;
-  });
-}
-
-function readme(u, langs, stars) {
-  const info = [
-    `<b>omer@github</b>`,
-    '-----------',
-    'ad      : Ömer Bayram',
-    'okul    : SUBÜ, Bilişim Güvenliği',
-    'öğrenme : CyberSec, Pentest, Red Team',
-    'araçlar : Python, C#, Linux, AWS, Unity',
-    `blog    : ${link('https://omertugrulbayram.com', 'omertugrulbayram.com')}`,
-    '',
-    `repo    : ${u.repositories.totalCount} açık`,
-    `yıldız  : ${stars}`,
-    `takipçi : ${u.followers.totalCount}`,
-    `katkı   : ${u.contributionsCollection.contributionCalendar.totalContributions} (son 1 yıl)`,
-    '',
-  ];
-  const fetch = LOCK.map((l, i) => `${esc(l)}${info[i] || ''}`).join('\n');
-
-  const nameW = 22;
-  const starOf = (n) => u.repositories.nodes.find((r) => r.name === n)?.stargazerCount || 0;
-  const rows = PROJECTS.map(([n, d, shown]) => {
-    const short = shown || n;
-    const s = starOf(n);
-    return `${link(`https://github.com/${USER}/${n}`, short)}${' '.repeat(nameW - short.length)}${(s ? `*${s}` : '').padEnd(4)}${esc(d)}`;
-  }).join('\n');
-
+function readme(p) {
   const buttons_ = LINKS.map(([id, text, url]) => `<a href="${url}"><img src="assets/l-${id}.svg" alt="${text}" height="34"></a>`).join('\n  ');
-
+  const cards = QUESTS.map((q) => {
+    const img = `<img src="assets/p-${q.id}.svg" alt="${q.title}: ${q.desc}" width="32%">`;
+    return q.repo ? `<a href="https://github.com/${USER}/${q.repo}">${img}</a>` : img;
+  }).join('\n  ');
+  const alt = `Oyuncu: Ömer Bayram. Sınıf: siber güvenlik. Katkı ${p.contributions}, depo ${p.repos}, yıldız ${p.stars}, takipçi ${p.followers}.`;
   return `<p align="center">
   <img src="assets/hero.svg" alt="Ömer Bayram: Bilişim Güvenliği öğrencisi. Pentest, Red Team, bulut güvenliği." width="100%">
 </p>
@@ -304,22 +259,20 @@ function readme(u, langs, stars) {
   ${buttons_}
 </p>
 
-<pre>
-<b>guest@omerbayram:~$</b> neofetch
-
-${fetch}
-<b>guest@omerbayram:~$</b> diller --en-cok
-
-${bars(langs).map(esc).join('\n')}
-
-<b>guest@omerbayram:~$</b> ls ~/projeler
-
-${rows}
-masa                      yakında: Windows masaüstü araç takımı
-</pre>
+<p align="center">
+  <img src="assets/sahne.svg" alt="${alt}" width="100%">
+</p>
 
 <p align="center">
-  <img src="assets/katki.svg" alt="Son bir yılda ${u.contributionsCollection.contributionCalendar.totalContributions} katkı" width="100%">
+  <img src="assets/gorevler.svg" alt="Görevler" width="100%">
+</p>
+
+<p align="center">
+  ${cards}
+</p>
+
+<p align="center">
+  <img src="assets/katki.svg" alt="Son bir yılda ${p.contributions} katkı" width="100%">
 </p>
 
 <p align="center">
@@ -352,7 +305,16 @@ masa                      yakında: Windows masaüstü araç takımı
   contributions(u.contributionsCollection.contributionCalendar);
   buttons();
   footer();
-  fs.writeFileSync(path.join(ROOT, 'README.md'), readme(u, langs, stars));
+  const total = langs.reduce((n, l) => n + l.size, 0);
+  const player = {
+    contributions: u.contributionsCollection.contributionCalendar.totalContributions, repos: u.repositories.totalCount, stars, followers: u.followers.totalCount,
+    langs: langs.map((l) => ({ name: l.name, pct: (l.size / total) * 100 })),
+  };
+  const game = require('./oyun')({ textPath, label, widthOf, rng, svg, CRT, CRT_TOP, CRT_CSS, STILL, ASSETS });
+  game.scene(player);
+  game.header(QUESTS.length);
+  QUESTS.forEach((q) => game.card({ cta: '> BAŞLAT', ...q }, u.repositories.nodes.find((r) => r.name === q.repo)?.stargazerCount || 0));
+  fs.writeFileSync(path.join(ROOT, 'README.md'), readme(player));
   for (const f of fs.readdirSync(ASSETS)) console.log(f, Math.round(fs.statSync(path.join(ASSETS, f)).size / 1024), 'KB');
   console.log('repo', u.repositories.totalCount, 'yildiz', stars, 'takipci', u.followers.totalCount, 'diller', langs.slice(0, 5).map((l) => l.name).join(','));
 })().catch((e) => { console.error(e); process.exit(1); });

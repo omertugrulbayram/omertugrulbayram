@@ -12,42 +12,25 @@
   <a href="mailto:omertugrulbayram@gmail.com"><img src="assets/l-eposta.svg" alt="E-POSTA" height="34"></a>
 </p>
 
-<pre>
-<b>guest@omerbayram:~$</b> neofetch
+<p align="center">
+  <img src="assets/sahne.svg" alt="Oyuncu: Ömer Bayram. Sınıf: siber güvenlik. Katkı 149, depo 46, yıldız 9, takipçi 10." width="100%">
+</p>
 
-     /\_/\            <b>omer@github</b>
-    ( o.o )           -----------
-     &gt; ^ &lt;            ad      : Ömer Bayram
-    .-------.         okul    : SUBÜ, Bilişim Güvenliği
-   /  .---.  \        öğrenme : CyberSec, Pentest, Red Team
-   |  |   |  |        araçlar : Python, C#, Linux, AWS, Unity
-   |  |   |  |        blog    : <a href="https://omertugrulbayram.com">omertugrulbayram.com</a>
- .-'--'---'--'-.      
- |  .-------.  |      repo    : 46 açık
- |  | 1 0 1 |  |      yıldız  : 9
- |  '-------'  |      takipçi : 10
- |      O      |      katkı   : 149 (son 1 yıl)
- '-------------'      
-<b>guest@omerbayram:~$</b> diller --en-cok
+<p align="center">
+  <img src="assets/gorevler.svg" alt="Görevler" width="100%">
+</p>
 
-JavaScript   [############........] 59.3%
-HTML         [####................] 21.4%
-CSS          [###.................] 14.6%
-Python       [#...................]  3.9%
-C#           [#...................]  0.9%
-
-<b>guest@omerbayram:~$</b> ls ~/projeler
-
-<a href="https://github.com/omertugrulbayram/SCQL">SCQL</a>                  *2  hedef bilgisi, port ve sürüm tarama aracı
-<a href="https://github.com/omertugrulbayram/ctf-writeups">ctf-writeups</a>          *1  TryHackMe, Hack The Box çözüm notları
-<a href="https://github.com/omertugrulbayram/BugBountyTool">BugBountyTool</a>             temel bug bounty tarama aracı
-<a href="https://github.com/omertugrulbayram/muhur">muhur</a>                     TEKNOFEST 2026, sosyal ağ güven katmanı
-<a href="https://github.com/omertugrulbayram/nasa-space-app-project-astrovia">astrovia</a>                  NASA Space Apps 2025, asteroit tespiti
-<a href="https://github.com/omertugrulbayram/deprem-radar">deprem-radar</a>              Türkiye canlı deprem haritası
-<a href="https://github.com/omertugrulbayram/namaz-vakit">namaz-vakit</a>               arkadaş grubu için namaz takibi
-<a href="https://github.com/omertugrulbayram/42_discovery_piscine">42_discovery_piscine</a>  *4  42 Discovery Piscine çalışmaları
-masa                      yakında: Windows masaüstü araç takımı
-</pre>
+<p align="center">
+  <a href="https://github.com/omertugrulbayram/SCQL"><img src="assets/p-scql.svg" alt="SCQL: PORT VE SÜRÜM TARAMA ARACI" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/ctf-writeups"><img src="assets/p-ctf.svg" alt="CTF WRITEUPS: THM VE HTB ÇÖZÜM NOTLARI" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/BugBountyTool"><img src="assets/p-bug.svg" alt="BUGBOUNTYTOOL: BUG BOUNTY TARAMA ARACI" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/muhur"><img src="assets/p-muhur.svg" alt="MÜHÜR: TEKNOFEST 2026 GÜVEN KATMANI" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/nasa-space-app-project-astrovia"><img src="assets/p-astrovia.svg" alt="ASTROVIA: NASA SPACE APPS 2025" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/deprem-radar"><img src="assets/p-deprem.svg" alt="DEPREM RADAR: CANLI DEPREM HARİTASI" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/namaz-vakit"><img src="assets/p-vakit.svg" alt="VAKİT: ARKADAŞLARLA NAMAZ TAKİBİ" width="32%"></a>
+  <a href="https://github.com/omertugrulbayram/42_discovery_piscine"><img src="assets/p-piscine.svg" alt="42 PISCINE: 4 GÜNLÜK PYTHON KAMPI" width="32%"></a>
+  <img src="assets/p-masa.svg" alt="MASA: WINDOWS MASAÜSTÜ ARAÇ TAKIMI" width="32%">
+</p>
 
 <p align="center">
   <img src="assets/katki.svg" alt="Son bir yılda 149 katkı" width="100%">
