@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/sahne.svg" alt="Oyuncu: Ömer Bayram. Sınıf: siber güvenlik. Katkı 149, depo 46, yıldız 9, takipçi 10." width="100%">
+  <img src="assets/sahne.svg" alt="Oyuncu: Ömer Bayram. Sınıf: siber güvenlik. Katkı 150, depo 46, yıldız 9, takipçi 10." width="100%">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/katki.svg" alt="Son bir yılda 149 katkı" width="100%">
+  <img src="assets/katki.svg" alt="Son bir yılda 150 katkı" width="100%">
 </p>
 
 <p align="center">
