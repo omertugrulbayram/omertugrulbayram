@@ -26,14 +26,14 @@
  |  .-------.  |      repo    : 46 açık
  |  | 1 0 1 |  |      yıldız  : 9
  |  '-------'  |      takipçi : 10
- |      O      |      katkı   : 148 (son 1 yıl)
+ |      O      |      katkı   : 149 (son 1 yıl)
  '-------------'      
 <b>guest@omerbayram:~$</b> diller --en-cok
 
-JavaScript   [############........] 58.9%
-HTML         [####................] 21.6%
-CSS          [###.................] 14.7%
-Python       [#...................]  4.0%
+JavaScript   [############........] 59.3%
+HTML         [####................] 21.4%
+CSS          [###.................] 14.6%
+Python       [#...................]  3.9%
 C#           [#...................]  0.9%
 
 <b>guest@omerbayram:~$</b> ls ~/projeler
@@ -50,7 +50,7 @@ masa                      yakında: Windows masaüstü araç takımı
 </pre>
 
 <p align="center">
-  <img src="assets/katki.svg" alt="Son bir yılda 148 katkı" width="100%">
+  <img src="assets/katki.svg" alt="Son bir yılda 149 katkı" width="100%">
 </p>
 
 <p align="center">
