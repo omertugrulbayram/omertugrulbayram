@@ -36,5 +36,6 @@ jobs:
             echo "değişiklik yok"
           else
             git commit -m "chore: README kareleri yenilendi"
+            git pull --rebase -q
             git push
           fi
