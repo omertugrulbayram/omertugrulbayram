@@ -38,12 +38,11 @@ CONFIG = {
         ("Kaggle", "https://kaggle.com/merturulbayram"),
     ],
     "projects": [  # (görünen ad, repo adı, kısa açıklama ≤ 46 karakter, renk)
-        ("SCQL", "SCQL", "Hedef bilgisi, port ve sürüm tarama aracı", "blue"),
-        ("ctf-writeups", "ctf-writeups", "TryHackMe ve Hack The Box çözüm notları", "indigo"),
-        ("BugBountyTool", "BugBountyTool", "Temel bug bounty tarama aracı", "orange"),
+        ("BiP Night", "bipnight", "BiP Night 2026 · BiP Kelime prototipi", "blue"),
         ("Mühür", "muhur", "TEKNOFEST 2026 · sosyal ağ güven katmanı", "green"),
-        ("Astrovia", "nasa-space-app-project-astrovia", "NASA Space Apps 2025 · asteroit tespiti", "purple"),
         ("deprem-radar", "deprem-radar", "Türkiye canlı deprem haritası", "red"),
+        ("42 Discovery", "42_discovery_piscine", "42 Discovery Piscine · 4 günlük kamp projeleri", "indigo"),
+        ("Akbank Derin Öğrenme", "Akbank-Derin-Ogrenme-Projesi", "Akbank bootcamp · CNN görüntü sınıflandırma", "orange"),
     ],
     "awards": [  # (ikon, başlık, alt yazı, renk)
         ("bug", "Bug Bounty", "HackerOne · Bugcrowd · BugBounter", "red"),

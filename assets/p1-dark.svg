@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="132" viewBox="0 0 410 132" role="img" aria-label="ctf-writeups — TryHackMe ve Hack The Box çözüm notları" fill="none">
-<title>ctf-writeups — TryHackMe ve Hack The Box çözüm notları</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="132" viewBox="0 0 410 132" role="img" aria-label="Mühür — TEKNOFEST 2026 · sosyal ağ güven katmanı" fill="none">
+<title>Mühür — TEKNOFEST 2026 · sosyal ağ güven katmanı</title>
 <style>.t{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Roboto,Arial,sans-serif}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect width="410" height="132" rx="22" fill="#1c1c1e"/>
-<defs><linearGradient id="p1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8e8cf0"/><stop offset="1" stop-color="#5856d6"/></linearGradient></defs><rect x="24" y="24" width="44" height="44" rx="10.559999999999999" fill="url(#p1)"/><text class="t" x="46" y="54" font-size="21" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">C</text>
-<text class="t" x="84" y="43" font-size="18" font-weight="600" fill="#f5f5f7" text-anchor="start" letter-spacing="-0.2">ctf-writeups</text>
-<text class="t" x="84" y="63" font-size="13" font-weight="400" fill="#8e8e93" text-anchor="start" letter-spacing="0">★ 1</text>
+<defs><linearGradient id="p1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7ee08f"/><stop offset="1" stop-color="#34c759"/></linearGradient></defs><rect x="24" y="24" width="44" height="44" rx="10.559999999999999" fill="url(#p1)"/><text class="t" x="46" y="54" font-size="21" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">M</text>
+<text class="t" x="84" y="43" font-size="18" font-weight="600" fill="#f5f5f7" text-anchor="start" letter-spacing="-0.2">Mühür</text>
+<text class="t" x="84" y="63" font-size="13" font-weight="400" fill="#8e8e93" text-anchor="start" letter-spacing="0">Python</text>
 <text class="t" x="386" y="42" font-size="17" font-weight="500" fill="#8e8e93" text-anchor="end" letter-spacing="0">↗</text>
-<text class="t" x="24" y="104" font-size="14" font-weight="400" fill="#a1a1a6" text-anchor="start" letter-spacing="0">TryHackMe ve Hack The Box çözüm notları</text>
+<text class="t" x="24" y="104" font-size="14" font-weight="400" fill="#a1a1a6" text-anchor="start" letter-spacing="0">TEKNOFEST 2026 · sosyal ağ güven katmanı</text>
 </svg>
