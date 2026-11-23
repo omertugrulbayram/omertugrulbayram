@@ -1,0 +1,40 @@
+name: readme-kareleri
+
+on:
+  schedule:
+    - cron: "17 3 * * *"        # her gün 06:17 (TR saati)
+  workflow_dispatch:            # Actions sekmesinden elle de çalıştırılabilir
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  kareler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kareleri üret
+        run: python scripts/generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Değişiklik varsa commitle
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "değişiklik yok"
+          else
+            git commit -m "chore: README kareleri yenilendi"
+            git push
+          fi

@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420" xml:space="preserve" role="img" aria-label="Karakter kartı — yetenekler ve envanter">
+<title>Karakter kartı — yetenekler ve envanter</title>
+<style>.m{font-family:'DejaVu Sans Mono','Cascadia Mono',Consolas,'Courier New',Menlo,monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}@keyframes seg{0%{opacity:0}3%,92%{opacity:1}100%{opacity:0}}.sg{animation:seg 8s steps(1) infinite backwards}@keyframes sel{0%,11%{opacity:1}12.5%,100%{opacity:0}}.sl{animation:sel 8s steps(1) infinite;opacity:0}.hp{animation:hp 1.2s steps(2) infinite}@keyframes hp{50%{opacity:.35}}.bob{animation:bob 1s steps(2) infinite}@keyframes bob{50%{transform:translateY(-3px)}}</style>
+<rect x="0" y="0" width="840" height="420" fill="#f4f1ea" />
+<defs><pattern id="tn" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1" fill="#111111" opacity=".18"/></pattern></defs>
+<rect x="0" y="0" width="840" height="420" fill="url(#tn)" />
+<rect x="16" y="16" width="808" height="34" fill="#111111" />
+<text class="m " x="30" y="39" font-size="14" fill="#f4f1ea" text-anchor="start" textLength="151.2" lengthAdjust="spacingAndGlyphs" font-weight="bold" >[ KARAKTER KARTI ]</text>
+<text class="m " x="810" y="39" font-size="13" fill="#39ff7a" text-anchor="end" textLength="273.0" lengthAdjust="spacingAndGlyphs" >LVL 19 · class: Security Researcher</text>
+<text class="m " x="30" y="74" font-size="12" fill="#111111" text-anchor="start" textLength="14.4" lengthAdjust="spacingAndGlyphs" font-weight="bold" >HP</text>
+<rect x="56" y="64" width="7" height="12" fill="#e63946" />
+<rect x="65" y="64" width="7" height="12" fill="#e63946" />
+<rect x="74" y="64" width="7" height="12" fill="#e63946" />
+<rect x="83" y="64" width="7" height="12" fill="#e63946" />
+<rect x="92" y="64" width="7" height="12" fill="#e63946" />
+<rect x="101" y="64" width="7" height="12" fill="#e63946" />
+<rect x="110" y="64" width="7" height="12" fill="#e63946" />
+<rect x="119" y="64" width="7" height="12" fill="#e63946" />
+<rect x="128" y="64" width="7" height="12" fill="#e63946" />
+<rect x="137" y="64" width="7" height="12" fill="#e63946" />
+<rect x="146" y="64" width="7" height="12" fill="#e63946" />
+<rect x="155" y="64" width="7" height="12" fill="#e63946" />
+<rect x="164" y="64" width="7" height="12" fill="#e63946" />
+<rect x="173" y="64" width="7" height="12" fill="#e63946" />
+<rect x="182" y="64" width="7" height="12" fill="#e63946" />
+<rect x="191" y="64" width="7" height="12" fill="#e63946" />
+<rect x="200" y="64" width="7" height="12" fill="#e63946" />
+<rect x="209" y="64" width="7" height="12" fill="#e63946" />
+<rect x="218" y="64" width="7" height="12" fill="#e63946" />
+<rect x="227" y="64" width="7" height="12" fill="#e63946" class="hp"/>
+<text class="m " x="250" y="74" font-size="12" fill="#111111" text-anchor="start" textLength="72.0" lengthAdjust="spacingAndGlyphs" font-weight="bold" >MANA (çay)</text>
+<rect x="338" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="347" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="356" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="365" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="374" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="383" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="392" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="401" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="410" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="419" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="428" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="437" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="446" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="455" y="64" width="7" height="12" fill="#4cc9f0" />
+<rect x="464" y="64" width="7" height="12" fill="#c9c9d1" />
+<rect x="473" y="64" width="7" height="12" fill="#c9c9d1" />
+<rect x="482" y="64" width="7" height="12" fill="#c9c9d1" />
+<rect x="491" y="64" width="7" height="12" fill="#c9c9d1" />
+<rect x="500" y="64" width="7" height="12" fill="#c9c9d1" />
+<rect x="509" y="64" width="7" height="12" fill="#c9c9d1" />
+<text class="m " x="810" y="74" font-size="12" fill="#e63946" text-anchor="end" textLength="108.0" lengthAdjust="spacingAndGlyphs" font-weight="bold" >STATUS: hunting</text>
+<rect x="16" y="92" width="392" height="250" fill="#fffdf7" />
+<text class="m " x="30" y="118" font-size="14" fill="#111111" text-anchor="start" textLength="84.0" lengthAdjust="spacingAndGlyphs" font-weight="bold" >YETENEKLER</text>
+<rect x="30" y="124" width="96" height="2" fill="#e63946" />
+<text class="m " x="30" y="154" font-size="12" fill="#111111" text-anchor="start" textLength="115.2" lengthAdjust="spacingAndGlyphs" font-weight="bold" >WEB APP SECURITY</text>
+<text class="m " x="394" y="154" font-size="12" fill="#e63946" text-anchor="end" textLength="28.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >9/10</text>
+<rect x="30" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="33" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.25s"/>
+<rect x="60" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="63" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.33s"/>
+<rect x="90" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="93" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.41s"/>
+<rect x="120" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="123" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.49s"/>
+<rect x="150" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="153" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.57s"/>
+<rect x="180" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="183" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.65s"/>
+<rect x="210" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="213" y="163" width="20" height="6" fill="#111111" style="animation-delay:0.73s"/>
+<rect x="240" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="243" y="163" width="20" height="6" fill="#e63946" style="animation-delay:0.81s"/>
+<rect x="270" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="273" y="163" width="20" height="6" fill="#e63946" style="animation-delay:0.89s"/>
+<rect x="300" y="160" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<text class="m " x="30" y="192" font-size="12" fill="#111111" text-anchor="start" textLength="122.4" lengthAdjust="spacingAndGlyphs" font-weight="bold" >LLM / AI RED TEAM</text>
+<text class="m " x="394" y="192" font-size="12" fill="#e63946" text-anchor="end" textLength="28.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >8/10</text>
+<rect x="30" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="33" y="201" width="20" height="6" fill="#111111" style="animation-delay:0.60s"/>
+<rect x="60" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="63" y="201" width="20" height="6" fill="#111111" style="animation-delay:0.68s"/>
+<rect x="90" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="93" y="201" width="20" height="6" fill="#111111" style="animation-delay:0.76s"/>
+<rect x="120" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="123" y="201" width="20" height="6" fill="#111111" style="animation-delay:0.84s"/>
+<rect x="150" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="153" y="201" width="20" height="6" fill="#111111" style="animation-delay:0.92s"/>
+<rect x="180" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="183" y="201" width="20" height="6" fill="#111111" style="animation-delay:1.00s"/>
+<rect x="210" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="213" y="201" width="20" height="6" fill="#111111" style="animation-delay:1.08s"/>
+<rect x="240" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="243" y="201" width="20" height="6" fill="#e63946" style="animation-delay:1.16s"/>
+<rect x="270" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="300" y="198" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<text class="m " x="30" y="230" font-size="12" fill="#111111" text-anchor="start" textLength="21.6" lengthAdjust="spacingAndGlyphs" font-weight="bold" >CTF</text>
+<text class="m " x="394" y="230" font-size="12" fill="#e63946" text-anchor="end" textLength="28.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >8/10</text>
+<rect x="30" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="33" y="239" width="20" height="6" fill="#111111" style="animation-delay:0.95s"/>
+<rect x="60" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="63" y="239" width="20" height="6" fill="#111111" style="animation-delay:1.03s"/>
+<rect x="90" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="93" y="239" width="20" height="6" fill="#111111" style="animation-delay:1.11s"/>
+<rect x="120" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="123" y="239" width="20" height="6" fill="#111111" style="animation-delay:1.19s"/>
+<rect x="150" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="153" y="239" width="20" height="6" fill="#111111" style="animation-delay:1.27s"/>
+<rect x="180" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="183" y="239" width="20" height="6" fill="#111111" style="animation-delay:1.35s"/>
+<rect x="210" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="213" y="239" width="20" height="6" fill="#111111" style="animation-delay:1.43s"/>
+<rect x="240" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="243" y="239" width="20" height="6" fill="#e63946" style="animation-delay:1.51s"/>
+<rect x="270" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="300" y="236" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<text class="m " x="30" y="268" font-size="12" fill="#111111" text-anchor="start" textLength="100.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >CLOUD SECURITY</text>
+<text class="m " x="394" y="268" font-size="12" fill="#e63946" text-anchor="end" textLength="28.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >6/10</text>
+<rect x="30" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="33" y="277" width="20" height="6" fill="#111111" style="animation-delay:1.30s"/>
+<rect x="60" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="63" y="277" width="20" height="6" fill="#111111" style="animation-delay:1.38s"/>
+<rect x="90" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="93" y="277" width="20" height="6" fill="#111111" style="animation-delay:1.46s"/>
+<rect x="120" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="123" y="277" width="20" height="6" fill="#111111" style="animation-delay:1.54s"/>
+<rect x="150" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="153" y="277" width="20" height="6" fill="#111111" style="animation-delay:1.62s"/>
+<rect x="180" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="183" y="277" width="20" height="6" fill="#111111" style="animation-delay:1.70s"/>
+<rect x="210" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="240" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="270" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="300" y="274" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<text class="m " x="30" y="306" font-size="12" fill="#111111" text-anchor="start" textLength="86.4" lengthAdjust="spacingAndGlyphs" font-weight="bold" >MCP SECURITY</text>
+<text class="m " x="394" y="306" font-size="12" fill="#e63946" text-anchor="end" textLength="28.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >6/10</text>
+<rect x="30" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="33" y="315" width="20" height="6" fill="#111111" style="animation-delay:1.65s"/>
+<rect x="60" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="63" y="315" width="20" height="6" fill="#111111" style="animation-delay:1.73s"/>
+<rect x="90" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="93" y="315" width="20" height="6" fill="#111111" style="animation-delay:1.81s"/>
+<rect x="120" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="123" y="315" width="20" height="6" fill="#111111" style="animation-delay:1.89s"/>
+<rect x="150" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="153" y="315" width="20" height="6" fill="#111111" style="animation-delay:1.97s"/>
+<rect x="180" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect class="sg" x="183" y="315" width="20" height="6" fill="#111111" style="animation-delay:2.05s"/>
+<rect x="210" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="240" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="270" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="300" y="312" width="26" height="12" fill="none" stroke="#111111" stroke-width="1.5"/>
+<rect x="420" y="92" width="404" height="250" fill="#fffdf7" />
+<text class="m " x="434" y="118" font-size="14" fill="#111111" text-anchor="start" textLength="184.8" lengthAdjust="spacingAndGlyphs" font-weight="bold" >ENVANTER // BAŞARIMLAR</text>
+<rect x="434" y="124" width="196" height="2" fill="#e63946" />
+<rect x="434" y="138" width="92" height="96" fill="#ece7da" />
+<rect x="434" y="138" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="431" y="135" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:0.00s"/>
+<g class="bob" style="animation-delay:-0.00s"><rect x="470" y="148" width="5" height="5" fill="#111111"/>
+<rect x="485" y="148" width="5" height="5" fill="#111111"/>
+<rect x="475" y="153" width="10" height="5" fill="#111111"/>
+<rect x="465" y="158" width="5" height="5" fill="#111111"/>
+<rect x="470" y="158" width="20" height="5" fill="#e63946"/>
+<rect x="490" y="158" width="5" height="5" fill="#111111"/>
+<rect x="460" y="163" width="5" height="5" fill="#111111"/>
+<rect x="470" y="163" width="20" height="5" fill="#e63946"/>
+<rect x="495" y="163" width="5" height="5" fill="#111111"/>
+<rect x="465" y="168" width="5" height="5" fill="#111111"/>
+<rect x="470" y="168" width="20" height="5" fill="#e63946"/>
+<rect x="490" y="168" width="5" height="5" fill="#111111"/>
+<rect x="460" y="173" width="5" height="5" fill="#111111"/>
+<rect x="470" y="173" width="20" height="5" fill="#e63946"/>
+<rect x="495" y="173" width="5" height="5" fill="#111111"/>
+<rect x="470" y="178" width="20" height="5" fill="#e63946"/>
+<rect x="465" y="183" width="5" height="5" fill="#111111"/>
+<rect x="490" y="183" width="5" height="5" fill="#111111"/></g>
+<text class="m " x="480.0" y="204" font-size="11" fill="#111111" text-anchor="middle" textLength="66.0" lengthAdjust="spacingAndGlyphs" font-weight="bold" >BUG BOUNTY</text>
+<text class="m " x="480.0" y="220" font-size="8.5" fill="#6b6b78" text-anchor="middle" textLength="81.6" lengthAdjust="spacingAndGlyphs" >H1·BC·BugBounter</text>
+<rect x="530" y="138" width="92" height="96" fill="#ece7da" />
+<rect x="530" y="138" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="527" y="135" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:1.00s"/>
+<g class="bob" style="animation-delay:-0.13s"><rect x="571" y="148" width="10" height="5" fill="#ffffff"/>
+<rect x="566" y="153" width="5" height="5" fill="#ffffff"/>
+<rect x="571" y="153" width="10" height="5" fill="#e63946"/>
+<rect x="581" y="153" width="5" height="5" fill="#ffffff"/>
+<rect x="566" y="158" width="20" height="5" fill="#ffffff"/>
+<rect x="566" y="163" width="5" height="5" fill="#ffffff"/>
+<rect x="571" y="163" width="10" height="5" fill="#4cc9f0"/>
+<rect x="581" y="163" width="5" height="5" fill="#ffffff"/>
+<rect x="566" y="168" width="20" height="5" fill="#ffffff"/>
+<rect x="561" y="173" width="5" height="5" fill="#e63946"/>
+<rect x="566" y="173" width="20" height="5" fill="#ffffff"/>
+<rect x="586" y="173" width="5" height="5" fill="#e63946"/>
+<rect x="556" y="178" width="5" height="5" fill="#e63946"/>
+<rect x="566" y="178" width="5" height="5" fill="#ffffff"/>
+<rect x="581" y="178" width="5" height="5" fill="#ffffff"/>
+<rect x="591" y="178" width="5" height="5" fill="#e63946"/>
+<rect x="571" y="183" width="10" height="5" fill="#ffd166"/></g>
+<text class="m " x="576.0" y="204" font-size="9.1" fill="#111111" text-anchor="middle" textLength="81.9" lengthAdjust="spacingAndGlyphs" font-weight="bold" >NASA SPACE APPS</text>
+<text class="m " x="576.0" y="220" font-size="9.8" fill="#6b6b78" text-anchor="middle" textLength="82.3" lengthAdjust="spacingAndGlyphs" >global nominee</text>
+<rect x="626" y="138" width="92" height="96" fill="#ece7da" />
+<rect x="626" y="138" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="623" y="135" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:2.00s"/>
+<g class="bob" style="animation-delay:-0.26s"><rect x="652" y="148" width="40" height="5" fill="#ffd166"/>
+<rect x="652" y="153" width="40" height="5" fill="#ffd166"/>
+<rect x="652" y="158" width="5" height="5" fill="#ffd166"/>
+<rect x="662" y="158" width="20" height="5" fill="#ffd166"/>
+<rect x="687" y="158" width="5" height="5" fill="#ffd166"/>
+<rect x="657" y="163" width="30" height="5" fill="#ffd166"/>
+<rect x="662" y="168" width="20" height="5" fill="#ffd166"/>
+<rect x="667" y="173" width="10" height="5" fill="#ffd166"/>
+<rect x="662" y="178" width="20" height="5" fill="#ffd166"/>
+<rect x="657" y="183" width="30" height="5" fill="#111111"/></g>
+<text class="m " x="672.0" y="204" font-size="11" fill="#111111" text-anchor="middle" textLength="59.4" lengthAdjust="spacingAndGlyphs" font-weight="bold" >BiP NIGHT</text>
+<text class="m " x="672.0" y="220" font-size="10" fill="#6b6b78" text-anchor="middle" textLength="42.0" lengthAdjust="spacingAndGlyphs" >1. sıra</text>
+<rect x="722" y="138" width="92" height="96" fill="#ece7da" />
+<rect x="722" y="138" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="719" y="135" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:3.00s"/>
+<g class="bob" style="animation-delay:-0.39s"><rect x="763" y="148" width="10" height="5" fill="#ffd166"/>
+<rect x="763" y="153" width="10" height="5" fill="#ffd166"/>
+<rect x="748" y="158" width="40" height="5" fill="#ffd166"/>
+<rect x="753" y="163" width="30" height="5" fill="#ffd166"/>
+<rect x="758" y="168" width="20" height="5" fill="#ffd166"/>
+<rect x="753" y="173" width="10" height="5" fill="#ffd166"/>
+<rect x="773" y="173" width="10" height="5" fill="#ffd166"/>
+<rect x="748" y="178" width="10" height="5" fill="#ffd166"/>
+<rect x="778" y="178" width="10" height="5" fill="#ffd166"/></g>
+<text class="m " x="768.0" y="204" font-size="10.5" fill="#111111" text-anchor="middle" textLength="81.9" lengthAdjust="spacingAndGlyphs" font-weight="bold" >VOYAGER CHLG.</text>
+<text class="m " x="768.0" y="220" font-size="10" fill="#6b6b78" text-anchor="middle" textLength="42.0" lengthAdjust="spacingAndGlyphs" >1. sıra</text>
+<rect x="434" y="238" width="92" height="96" fill="#ece7da" />
+<rect x="434" y="238" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="431" y="235" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:4.00s"/>
+<g class="bob" style="animation-delay:-0.52s"><rect x="465" y="248" width="10" height="5" fill="#e63946"/>
+<rect x="485" y="248" width="10" height="5" fill="#e63946"/>
+<rect x="470" y="253" width="20" height="5" fill="#e63946"/>
+<rect x="475" y="258" width="10" height="5" fill="#e63946"/>
+<rect x="470" y="263" width="20" height="5" fill="#c0c0c8"/>
+<rect x="465" y="268" width="10" height="5" fill="#c0c0c8"/>
+<rect x="475" y="268" width="5" height="5" fill="#111111"/>
+<rect x="480" y="268" width="15" height="5" fill="#c0c0c8"/>
+<rect x="465" y="273" width="10" height="5" fill="#c0c0c8"/>
+<rect x="475" y="273" width="5" height="5" fill="#111111"/>
+<rect x="480" y="273" width="15" height="5" fill="#c0c0c8"/>
+<rect x="465" y="278" width="30" height="5" fill="#c0c0c8"/>
+<rect x="470" y="283" width="20" height="5" fill="#c0c0c8"/></g>
+<text class="m " x="480.0" y="304" font-size="11" fill="#111111" text-anchor="middle" textLength="72.6" lengthAdjust="spacingAndGlyphs" font-weight="bold" >ÇÖZÜM SENDE</text>
+<text class="m " x="480.0" y="320" font-size="10" fill="#6b6b78" text-anchor="middle" textLength="42.0" lengthAdjust="spacingAndGlyphs" >2. sıra</text>
+<rect x="530" y="238" width="92" height="96" fill="#ece7da" />
+<rect x="530" y="238" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="527" y="235" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:5.00s"/>
+<g class="bob" style="animation-delay:-0.65s"><rect x="561" y="248" width="30" height="5" fill="#e9d8a6"/>
+<rect x="556" y="253" width="40" height="5" fill="#e9d8a6"/>
+<rect x="561" y="258" width="5" height="5" fill="#e9d8a6"/>
+<rect x="566" y="258" width="20" height="5" fill="#111111"/>
+<rect x="586" y="258" width="5" height="5" fill="#e9d8a6"/>
+<rect x="561" y="263" width="30" height="5" fill="#e9d8a6"/>
+<rect x="561" y="268" width="5" height="5" fill="#e9d8a6"/>
+<rect x="566" y="268" width="15" height="5" fill="#111111"/>
+<rect x="581" y="268" width="10" height="5" fill="#e9d8a6"/>
+<rect x="561" y="273" width="30" height="5" fill="#e9d8a6"/>
+<rect x="556" y="278" width="40" height="5" fill="#e9d8a6"/>
+<rect x="561" y="283" width="30" height="5" fill="#e9d8a6"/></g>
+<text class="m " x="576.0" y="304" font-size="11" fill="#111111" text-anchor="middle" textLength="26.4" lengthAdjust="spacingAndGlyphs" font-weight="bold" >SEAL</text>
+<text class="m " x="576.0" y="320" font-size="10" fill="#6b6b78" text-anchor="middle" textLength="54.0" lengthAdjust="spacingAndGlyphs" >ISAS 2026</text>
+<rect x="626" y="238" width="92" height="96" fill="#ece7da" />
+<rect x="626" y="238" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="623" y="235" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:6.00s"/>
+<g class="bob" style="animation-delay:-0.78s"><rect x="652" y="248" width="5" height="5" fill="#111111"/>
+<rect x="652" y="253" width="5" height="5" fill="#111111"/>
+<rect x="657" y="253" width="25" height="5" fill="#e63946"/>
+<rect x="652" y="258" width="5" height="5" fill="#111111"/>
+<rect x="657" y="258" width="10" height="5" fill="#e63946"/>
+<rect x="667" y="258" width="5" height="5" fill="#ffffff"/>
+<rect x="672" y="258" width="15" height="5" fill="#e63946"/>
+<rect x="652" y="263" width="5" height="5" fill="#111111"/>
+<rect x="657" y="263" width="25" height="5" fill="#e63946"/>
+<rect x="652" y="268" width="5" height="5" fill="#111111"/>
+<rect x="657" y="268" width="30" height="5" fill="#e63946"/>
+<rect x="652" y="273" width="5" height="5" fill="#111111"/>
+<rect x="652" y="278" width="5" height="5" fill="#111111"/>
+<rect x="652" y="283" width="5" height="5" fill="#111111"/></g>
+<text class="m " x="672.0" y="304" font-size="11" fill="#111111" text-anchor="middle" textLength="79.2" lengthAdjust="spacingAndGlyphs" font-weight="bold" >BAYRAK SENDE</text>
+<text class="m " x="672.0" y="320" font-size="10" fill="#6b6b78" text-anchor="middle" textLength="42.0" lengthAdjust="spacingAndGlyphs" >4. sıra</text>
+<rect x="722" y="238" width="92" height="96" fill="#ece7da" />
+<rect x="722" y="238" width="92" height="96" fill="none" stroke="#111111" stroke-width="2"/>
+<rect class="sl" x="719" y="235" width="98" height="102" fill="none" stroke="#e63946" stroke-width="3" style="animation-delay:7.00s"/>
+<g class="bob" style="animation-delay:-0.91s"><rect x="753" y="248" width="30" height="5" fill="#2fd36b"/>
+<rect x="748" y="253" width="40" height="5" fill="#2fd36b"/>
+<rect x="748" y="258" width="10" height="5" fill="#2fd36b"/>
+<rect x="758" y="258" width="5" height="5" fill="#111111"/>
+<rect x="763" y="258" width="10" height="5" fill="#2fd36b"/>
+<rect x="773" y="258" width="5" height="5" fill="#111111"/>
+<rect x="778" y="258" width="10" height="5" fill="#2fd36b"/>
+<rect x="748" y="263" width="15" height="5" fill="#2fd36b"/>
+<rect x="763" y="263" width="10" height="5" fill="#111111"/>
+<rect x="773" y="263" width="15" height="5" fill="#2fd36b"/>
+<rect x="753" y="268" width="30" height="5" fill="#2fd36b"/>
+<rect x="758" y="273" width="20" height="5" fill="#2fd36b"/>
+<rect x="763" y="278" width="10" height="5" fill="#2fd36b"/></g>
+<text class="m " x="768.0" y="304" font-size="11" fill="#111111" text-anchor="middle" textLength="79.2" lengthAdjust="spacingAndGlyphs" font-weight="bold" >MCP RESEARCH</text>
+<text class="m " x="768.0" y="320" font-size="10" fill="#6b6b78" text-anchor="middle" textLength="72.0" lengthAdjust="spacingAndGlyphs" >devam ediyor</text>
+<rect x="16" y="354" width="808" height="50" fill="#111111" />
+<text class="m " x="30" y="384" font-size="13" fill="#e63946" text-anchor="start" textLength="101.4" lengthAdjust="spacingAndGlyphs" font-weight="bold" >ALET KEMERİ &gt;</text>
+<rect x="160" y="366" width="47" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="169" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="28.8" lengthAdjust="spacingAndGlyphs" >burp</text>
+<rect x="214.8" y="366" width="61" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="223.8" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="43.2" lengthAdjust="spacingAndGlyphs" >python</text>
+<rect x="284.0" y="366" width="68" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="293.0" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs" >semgrep</text>
+<rect x="360.4" y="366" width="54" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="369.4" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="36.0" lengthAdjust="spacingAndGlyphs" >garak</text>
+<rect x="422.4" y="366" width="54" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="431.4" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="36.0" lengthAdjust="spacingAndGlyphs" >pyrit</text>
+<rect x="484.4" y="366" width="61" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="493.4" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="43.2" lengthAdjust="spacingAndGlyphs" >ollama</text>
+<rect x="553.5999999999999" y="366" width="68" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="562.5999999999999" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs" >flutter</text>
+<rect x="629.9999999999999" y="366" width="76" height="26" fill="none" stroke="#39ff7a" stroke-width="1.5"/>
+<text class="m " x="638.9999999999999" y="384" font-size="12" fill="#39ff7a" text-anchor="start" textLength="57.6" lengthAdjust="spacingAndGlyphs" >supabase</text>
+<rect x="16" y="92" width="392" height="250" fill="none" stroke="#111111" stroke-width="3"/>
+<rect x="420" y="92" width="404" height="250" fill="none" stroke="#111111" stroke-width="3"/>
+<rect x="1.5" y="1.5" width="837" height="417" fill="none" stroke="#111111" stroke-width="3"/>
+</svg>
