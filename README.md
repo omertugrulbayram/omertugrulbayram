@@ -1,22 +1,68 @@
 <div align="center">
 
-<!-- Animasyonlu Amber Typing Prompt -->
-<a href="https://github.com/omertugrulbayram">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFB000&center=true&vCenter=true&width=700&lines=root%40omertugrul%3A~%23+whoami;%3E+Offensive+Security+%7C+Automation+%7C+CTF+Player;%3E+Breaking+things+to+understand+how+they+work." alt="Typing SVG" />
-</a>
+```text
+                    . .  . .   . . .   . . .              
+               . ░▓████████████████████████▓░ .          
+             . ▒██████████████████████████████▒ .        
+            . ▓█████▓▒░      ..      ░▒▓██████▓ .        
+           . ▓████▒ .                  . ▒████▓ .        
+          . ▐████▒   ▄▄▄▄          ▄▄▄▄   ▒████▌ .      
+          . ▐███▓   ██████        ██████   ▓███▌ .      
+          . ▐███▒   ▐████▌   ▄▄   ▐████▌   ▒███▌ .      
+          . ▐███▒    ▀▀▀▀   ▐██▌   ▀▀▀▀    ▒███▌ .      
+           . ▓███▒           ▀▀           ▒███▓ .        
+            . ▓████▒      ░▄▄▄▄▄▄▄░      ▒████▓ .        
+             . ▒█████▄      ▀████▀      ▄█████▒ .        
+               . ░▓█████▄▄          ▄▄█████▓░ .          
+                    . ▀████████████████▀ .              
+               . ▄▄████████████████████████▄▄ .          
+             . ▓██████████████████████████████▓ .        
+            . ▓██████████▀▀          ▀▀████████▓ .        
+           . ▓████████▀                  ▀██████▓ .      
+          . ▒███████▌                      ▐██████▒ .    
+          . ▒███████                        ██████▒ .    
+          . ░███████▌   ▄▄▄          ▄▄▄   ▐██████░ .    
+            . ░▒▓█████▄ ▀██▌        ▐██▀ ▄█████▓▒░ .      
+                . ░▒▓███▄▄██▌      ▐██▄▄███▓▒░ .          
+                     . ▀▀▀▀          ▀▀▀▀ .              
 
-<!-- CRT Neofetch Kartı -->
-<img src="./assets/neofetch.svg" alt="Retro Amber CRT Neofetch" width="850" />
+ █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+ ▌  [!] S Y S T E M   L O A D E D :   o m e r t u g r u l @ g i t h u b      ▐
+ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-</div>
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░▒▓████████████████████████████████████████████████████████████████████████▓▒░
+ ░▒▓█                                                                      █▓▒░
+ ░▒▓█   [USER]     :: Ömer Tuğrul Bayram                                   █▓▒░
+ ░▒▓█   [ROLE]     :: Cyber Security Researcher & Developer                █▓▒░
+ ░▒▓█   [FOCUS]    :: Offensive Security · Automation · Malware Analysis   █▓▒░
+ ░▒▓█   [STACK]    :: Python · C/C++ · JS · Bash                           █▓▒░
+ ░▒▓█   [ENV]      :: Kali Linux & Hardened Windows                        █▓▒░
+ ░▒▓█   [STATUS]   :: Automating the boring stuff & hunting binaries...    █▓▒░
+ ░▒▓█                                                                      █▓▒░
+ ░▒▓████████████████████████████████████████████████████████████████████████▓▒░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+          ░░░░░░   ▒▒▒▒▒▒   ▓▓▓▓▓▓   ██████   ▄▄▄▄▄▄   ▀▀▀▀▀▀
+          [01]      [02]     [03]     [04]     [05]     [06]  
+          DEBUG     SCAN     EXPLOIT  AUTOMATE REVERSE  READY
+```
+
+```bash
+┌─[omertugrul@crt]─[~/reality-check]
+└──╼ $ cat /var/log/honest_bio.log
+
+[OK]   Kod çalışıyorsa dokunma, neden çalıştığını da sorgulama.
+[WARN] "Sadece 5 dakika CTF bakıp yatacağım" -> Saat 04:30.
+[ERR]  rm -rf / --no-preserve-root  # şaka şaka, prod'da deneme.
+[INFO] Sosyal medya bağlantıları aşağıda listelendi...
+```
 
 <br/>
 
-```text
-┌─[omertugrul@crt]─[~/active-modules]
-└──╼ $ ls -la
+<code>[</code> <a href="https://medium.com/@omertugrulbayram"><b>Medium</b></a> <code>]</code> ────
+<code>[</code> <a href="https://tryhackme.com/p/omertugrulbayram"><b>TryHackMe</b></a> <code>]</code> ────
+<code>[</code> <a href="https://app.hackthebox.com/users/Swonzxrpy"><b>Hack The Box</b></a> <code>]</code> ────
+<code>[</code> <a href="https://linkedin.com/in/KULLANICI_ADIN"><b>LinkedIn</b></a> <code>]</code>
 
-drwxr-xr-x  01  offensive-security/   Web & API Pentesting, Bug Bounty, Exploit Research
-drwxr-xr-x  02  automation-tools/     Python CLI Solvers, Recon Pipelines, Security Bots
-drwxr-xr-x  03  ctf-writeups/         TryHackMe, Hack The Box, Malware & Reverse Engineering
-drwxr-xr-x  04  side-experiments/     3D Web Games, Mini UAV Prototyping, Local LLMs
+</div>
