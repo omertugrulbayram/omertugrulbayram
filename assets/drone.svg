@@ -3,7 +3,7 @@
 <style>.m{font-family:'DejaVu Sans Mono','Cascadia Mono',Consolas,'Courier New',Menlo,monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}@keyframes fly{0%{transform:translateX(-60px)}85%,100%{transform:translateX(860px)}}.dr{animation:fly 14.0s linear infinite}.bm{animation:bm .15s steps(2) infinite}@keyframes bm{50%{opacity:.2}}@keyframes hit{4%{fill:#ffffff}7%{fill:#e63946}12%,90%{fill:#1b1b22}}.h{animation:hit 14.0s linear infinite backwards}.sfx{animation:wob .4s steps(2) infinite}@keyframes wob{50%{transform:translateY(-3px)}}.c0{animation-delay:0.19s}.c1{animation-delay:0.38s}.c2{animation-delay:0.58s}.c3{animation-delay:0.77s}.c4{animation-delay:0.97s}.c5{animation-delay:1.16s}.c6{animation-delay:1.35s}.c7{animation-delay:1.55s}.c8{animation-delay:1.74s}.c9{animation-delay:1.94s}.c10{animation-delay:2.13s}.c11{animation-delay:2.32s}.c12{animation-delay:2.52s}.c13{animation-delay:2.71s}.c14{animation-delay:2.91s}.c15{animation-delay:3.10s}.c16{animation-delay:3.29s}.c17{animation-delay:3.49s}.c18{animation-delay:3.68s}.c19{animation-delay:3.88s}.c20{animation-delay:4.07s}.c21{animation-delay:4.26s}.c22{animation-delay:4.46s}.c23{animation-delay:4.65s}.c24{animation-delay:4.85s}.c25{animation-delay:5.04s}.c26{animation-delay:5.23s}.c27{animation-delay:5.43s}.c28{animation-delay:5.62s}.c29{animation-delay:5.82s}.c30{animation-delay:6.01s}.c31{animation-delay:6.20s}.c32{animation-delay:6.40s}.c33{animation-delay:6.59s}.c34{animation-delay:6.79s}.c35{animation-delay:6.98s}.c36{animation-delay:7.17s}.c37{animation-delay:7.37s}.c38{animation-delay:7.56s}.c39{animation-delay:7.76s}.c40{animation-delay:7.95s}.c41{animation-delay:8.15s}.c42{animation-delay:8.34s}.c43{animation-delay:8.53s}.c44{animation-delay:8.73s}.c45{animation-delay:8.92s}.c46{animation-delay:9.12s}.c47{animation-delay:9.31s}.c48{animation-delay:9.50s}.c49{animation-delay:9.70s}.c50{animation-delay:9.89s}.c51{animation-delay:10.09s}.c52{animation-delay:10.28s}</style>
 <rect x="0" y="0" width="840" height="250" fill="#0d1117" />
 <text class="m " x="20" y="32" font-size="13" fill="#e8e8ee" text-anchor="start" font-weight="bold" >第04話 · OPERASYON: KATKI GRAFİĞİ</text>
-<text class="m " x="820" y="32" font-size="12" fill="#8fd9a8" text-anchor="end" >160 katkı · 24 hedef gün</text>
+<text class="m " x="820" y="32" font-size="12" fill="#8fd9a8" text-anchor="end" >161 katkı · 24 hedef gün</text>
 <rect x="24" y="104" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="24" y="119" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="24" y="134" width="12" height="12" rx="2" fill="#161b22"/>
@@ -369,7 +369,7 @@
 <rect x="789" y="179" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="789" y="194" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="804" y="104" width="12" height="12" rx="2" fill="#161b22"/>
-<rect class="h c52" x="804" y="119" width="12" height="12" rx="2" fill="#006d32"/>
+<rect class="h c52" x="804" y="119" width="12" height="12" rx="2" fill="#26a641"/>
 <g class="dr">
 <rect class="bm" x="29" y="68" width="6" height="141" fill="#e63946" opacity=".55"/>
 <rect x="28" y="40" width="8" height="4" fill="#d0d0d8"/>
