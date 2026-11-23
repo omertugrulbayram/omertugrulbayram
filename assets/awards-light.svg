@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="324" viewBox="0 0 840 324" role="img" aria-label="Başarımlar" fill="none">
+<title>Başarımlar</title>
+<style>.t{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Roboto,Arial,sans-serif}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="840" height="324" rx="24" fill="#f5f5f7"/>
+<line x1="420" y1="28" x2="420" y2="296" stroke="#dcdce1"/>
+<defs><linearGradient id="a0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8a80"/><stop offset="1" stop-color="#ff3b30"/></linearGradient></defs><rect x="28" y="28" width="40" height="40" rx="9.6" fill="url(#a0)"/><path d="M8 10a4 4 0 0 1 8 0v4a4 4 0 0 1-8 0z M12 10v8 M8 13H4 M20 13h-4 M8 17l-3 2 M16 17l3 2 M8 10L5 8 M16 10l3-2 M10 6.5L9 4 M14 6.5L15 4" transform="translate(36.6 36.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="84" y="46" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">Bug Bounty</text>
+<text class="t" x="84" y="67" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">HackerOne · Bugcrowd · BugBounter</text>
+<defs><linearGradient id="a1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8e8cf0"/><stop offset="1" stop-color="#5856d6"/></linearGradient></defs><rect x="448" y="28" width="40" height="40" rx="9.6" fill="url(#a1)"/><path d="M12 3c3 2.5 4.5 6.5 3.6 11H8.4C7.5 9.5 9 5.5 12 3z M8.4 14L5.5 17l3 .8 M15.6 14l2.9 3-3 .8 M10.5 18l1.5 3 1.5-3 M12 9.5h.01" transform="translate(456.6 36.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="504" y="46" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">NASA Space Apps</text>
+<text class="t" x="504" y="67" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">Global aday</text>
+<line x1="84" y1="86" x2="396" y2="86" stroke="#dcdce1"/>
+<defs><linearGradient id="a2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffc061"/><stop offset="1" stop-color="#ff9500"/></linearGradient></defs><rect x="28" y="104" width="40" height="40" rx="9.6" fill="url(#a2)"/><path d="M7 4h10v5a5 5 0 0 1-10 0z M7 6H4.5v1a3 3 0 0 0 3 3 M17 6h2.5v1a3 3 0 0 1-3 3 M12 14v4 M8 21h8 M9.5 18h5" transform="translate(36.6 112.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="84" y="122" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">BiP Night</text>
+<text class="t" x="84" y="143" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">1. sıra</text>
+<line x1="504" y1="86" x2="816" y2="86" stroke="#dcdce1"/>
+<defs><linearGradient id="a3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe066"/><stop offset="1" stop-color="#ffb800"/></linearGradient></defs><rect x="448" y="104" width="40" height="40" rx="9.6" fill="url(#a3)"/><path d="M12 3.5l2.6 5.3 5.8.8-4.2 4.1 1 5.8L12 16.8l-5.2 2.7 1-5.8-4.2-4.1 5.8-.8z" transform="translate(456.6 112.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="504" y="122" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">Voyager Challenge</text>
+<text class="t" x="504" y="143" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">1. sıra</text>
+<line x1="84" y1="162" x2="396" y2="162" stroke="#dcdce1"/>
+<defs><linearGradient id="a4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7ad7e6"/><stop offset="1" stop-color="#30b0c7"/></linearGradient></defs><rect x="28" y="180" width="40" height="40" rx="9.6" fill="url(#a4)"/><path d="M7 15a5 5 0 1 0 10 0a5 5 0 1 0-10 0 M8 3l3 7 M16 3l-3 7 M12 13v4" transform="translate(36.6 188.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="84" y="198" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">Çözüm Sende</text>
+<text class="t" x="84" y="219" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">2. sıra</text>
+<line x1="504" y1="162" x2="816" y2="162" stroke="#dcdce1"/>
+<defs><linearGradient id="a5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5ac8fa"/><stop offset="1" stop-color="#007aff"/></linearGradient></defs><rect x="448" y="180" width="40" height="40" rx="9.6" fill="url(#a5)"/><path d="M7 3h7l4 4v14H7z M14 3v4h4 M10 12h5 M10 16h5" transform="translate(456.6 188.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="504" y="198" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">SEAL</text>
+<text class="t" x="504" y="219" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">ISAS 2026 bildirisi</text>
+<line x1="84" y1="238" x2="396" y2="238" stroke="#dcdce1"/>
+<defs><linearGradient id="a6" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7aa0"/><stop offset="1" stop-color="#ff2d55"/></linearGradient></defs><rect x="28" y="256" width="40" height="40" rx="9.6" fill="url(#a6)"/><path d="M6 21V4 M6 4h11l-2.2 4 2.2 4H6" transform="translate(36.6 264.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="84" y="274" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">Bayrak Sende</text>
+<text class="t" x="84" y="295" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">4. sıra</text>
+<line x1="504" y1="238" x2="816" y2="238" stroke="#dcdce1"/>
+<defs><linearGradient id="a7" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7ee08f"/><stop offset="1" stop-color="#34c759"/></linearGradient></defs><rect x="448" y="256" width="40" height="40" rx="9.6" fill="url(#a7)"/><path d="M12 3l7 3v5c0 5-3 8.2-7 10-4-1.8-7-5-7-10V6z M9 12l2.2 2.2L15.5 10" transform="translate(456.6 264.6) scale(0.95)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text class="t" x="504" y="274" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.1">MCP güvenlik araştırması</text>
+<text class="t" x="504" y="295" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">Devam ediyor</text>
+</svg>

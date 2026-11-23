@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-label="Ömer Bayram — Güvenlik Araştırmacısı" fill="none">
+<title>Ömer Bayram — Güvenlik Araştırmacısı</title>
+<style>.t{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Roboto,Arial,sans-serif}@media (prefers-reduced-motion:reduce){*{animation:none!important}}@keyframes d1{50%{transform:translate(-40px,26px)}}@keyframes d2{50%{transform:translate(36px,-22px)}}@keyframes d3{50%{transform:translate(-26px,-30px)}}.b1{animation:d1 16s ease-in-out infinite}.b2{animation:d2 19s ease-in-out infinite}.b3{animation:d3 22s ease-in-out infinite}</style>
+<defs>
+<clipPath id="c"><rect width="840" height="340" rx="28"/></clipPath>
+<radialGradient id="g0"><stop offset="0" stop-color="#1d4f91" stop-opacity="0.6"/><stop offset="1" stop-color="#1d4f91" stop-opacity="0"/></radialGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#47307d" stop-opacity="0.6"/><stop offset="1" stop-color="#47307d" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#6a2c48" stop-opacity="0.6"/><stop offset="1" stop-color="#6a2c48" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="840" height="340" rx="28" fill="#1c1c1e"/>
+<g clip-path="url(#c)">
+<circle class="b1" cx="690" cy="96" r="250" fill="url(#g0)"/>
+<circle class="b2" cx="560" cy="320" r="220" fill="url(#g1)"/>
+<circle class="b3" cx="830" cy="300" r="200" fill="url(#g2)"/>
+</g>
+<text class="t" x="56" y="98" font-size="17" font-weight="600" fill="#2997ff" text-anchor="start" letter-spacing="0">Güvenlik Araştırmacısı</text>
+<text class="t" x="54" y="166" font-size="64" font-weight="700" fill="#f5f5f7" text-anchor="start" letter-spacing="-1.8">Ömer Bayram</text>
+<text class="t" x="56" y="210" font-size="21" font-weight="400" fill="#a1a1a6" text-anchor="start" letter-spacing="-0.2">Web, bulut ve yapay zekâ sistemlerinde açık arıyorum.</text>
+<rect x="56" y="238" width="132" height="34" rx="17" fill="#2c2c2e" fill-opacity="0.78" stroke="#3a3a3c"/>
+<text class="t" x="122" y="260" font-size="14" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="0">Web Güvenliği</text>
+<rect x="196" y="238" width="124" height="34" rx="17" fill="#2c2c2e" fill-opacity="0.78" stroke="#3a3a3c"/>
+<text class="t" x="258" y="260" font-size="14" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="0">LLM Red Team</text>
+<rect x="328" y="238" width="108" height="34" rx="17" fill="#2c2c2e" fill-opacity="0.78" stroke="#3a3a3c"/>
+<text class="t" x="382" y="260" font-size="14" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="0">Bug Bounty</text>
+<rect x="444" y="238" width="54" height="34" rx="17" fill="#2c2c2e" fill-opacity="0.78" stroke="#3a3a3c"/>
+<text class="t" x="471" y="260" font-size="14" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="0">CTF</text>
+<rect x="506" y="238" width="54" height="34" rx="17" fill="#2c2c2e" fill-opacity="0.78" stroke="#3a3a3c"/>
+<text class="t" x="533" y="260" font-size="14" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="0">MCP</text>
+<text class="t" x="56" y="306" font-size="14" font-weight="400" fill="#8e8e93" text-anchor="start" letter-spacing="0">Sakarya, Türkiye  ·  SUBÜ Bilişim Güvenliği</text>
+</svg>
