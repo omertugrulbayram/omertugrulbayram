@@ -181,10 +181,11 @@
 <rect x="470.0" y="178" width="14" height="14" rx="4" fill="#e6e6eb"/>
 <rect x="488.0" y="70" width="14" height="14" rx="4" fill="#e6e6eb"/>
 <rect x="488.0" y="88" width="14" height="14" rx="4" fill="#0071e3"/>
+<rect x="488.0" y="106" width="14" height="14" rx="4" fill="#0071e3"/>
 <rect x="556" width="284" height="224" rx="24" fill="#f5f5f7"/>
-<text class="t" x="584" y="88" font-size="32" font-weight="700" fill="#0071e3" text-anchor="start" letter-spacing="-0.8">167</text>
+<text class="t" x="584" y="88" font-size="32" font-weight="700" fill="#0071e3" text-anchor="start" letter-spacing="-0.8">176</text>
 <text class="t" x="584" y="112" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">katkı · son 1 yıl</text>
-<text class="t" x="720" y="88" font-size="32" font-weight="700" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.8">48</text>
+<text class="t" x="720" y="88" font-size="32" font-weight="700" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.8">47</text>
 <text class="t" x="720" y="112" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">açık repo</text>
 <text class="t" x="584" y="172" font-size="32" font-weight="700" fill="#1d1d1f" text-anchor="start" letter-spacing="-0.8">9</text>
 <text class="t" x="584" y="196" font-size="13" font-weight="400" fill="#6e6e73" text-anchor="start" letter-spacing="0">yıldız</text>
